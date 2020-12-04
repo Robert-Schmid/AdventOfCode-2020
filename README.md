@@ -15,3 +15,8 @@ This can be used as a reference for simple examples of the mentioned features an
 ### Day 3
 * Floating Point Inf
 * 1-based Array Indexing and modulo, not a good pair
+
+### Day 4
+* RegEx
+* Debugging
+A match made in heaven...
