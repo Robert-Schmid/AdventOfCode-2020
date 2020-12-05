@@ -20,3 +20,7 @@ This can be used as a reference for simple examples of the mentioned features an
 * RegEx
 * Debugging
 A match made in heaven...
+
+### Day 5
+* foldl & map
+* OffsetArrays
