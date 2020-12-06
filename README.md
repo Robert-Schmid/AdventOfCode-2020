@@ -24,3 +24,7 @@ A match made in heaven...
 ### Day 5
 * foldl & map
 * OffsetArrays
+
+### Day 6
+* more maps
+* Dictionaries
